@@ -2,4 +2,5 @@
 
 ## This repo is for a learning purpose: how to use Git and Github.
 
-https://res.cloudinary.com/practicaldev/image/fetch/s--08RY4_Yg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1o8inq8110mxvqyls276.png
+![git-github](https://user-images.githubusercontent.com/10977307/132852439-9707c581-b5ac-431d-b82d-a094a6085dea.jpeg)
+
